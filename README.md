@@ -33,7 +33,3 @@ food_wastage_system (1).db: Database.
 sql_queries/, visualization_charts/: Query and chart data.
 cleaned_*.csv: Cleaned data files.
 
-Contributing
-Fork the repo and submit pull requests or issues.
-License
-MIT License.
