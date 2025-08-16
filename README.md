@@ -1,5 +1,7 @@
 Local Food Wastage Management System
+
 Overview
+
 A simple web app using Streamlit and SQLite to connect food providers with receivers, reducing wastage.
 Features
 
