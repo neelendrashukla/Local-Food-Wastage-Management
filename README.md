@@ -1,22 +1,25 @@
 Local Food Wastage Management System
-Overview
+
+Overview:
+
 A simple web app using Streamlit and SQLite to connect food providers with receivers, reducing wastage.
-Features
+
+Features:
 
 CRUD operations for providers, receivers, and food listings.
 SQL queries and a statistics dashboard.
 Basic data visualizations.
 
-Installation
+Installation:
 
 Clone the repo:git clone https://github.com/neelendrashukla/Local-Food-Wastage-Management.git
 cd Local-Food-Wastage-Management
 
 
-Install dependencies:pip install streamlit pandas matplotlib seaborn
+Install dependencies: pip install streamlit pandas matplotlib seaborn
 
 
-Run the app:streamlit run Local Food Wastage Management app.py
+Run the app: streamlit run Local Food Wastage Management app.py
 
 
 
