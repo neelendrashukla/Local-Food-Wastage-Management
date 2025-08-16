@@ -1,0 +1,13 @@
+Meal_Type,Status,Claim_Count
+Breakfast,Cancelled,99
+Breakfast,Completed,95
+Lunch,Pending,89
+Snacks,Cancelled,88
+Dinner,Completed,86
+Breakfast,Pending,84
+Lunch,Completed,84
+Snacks,Pending,78
+Lunch,Cancelled,77
+Dinner,Pending,74
+Snacks,Completed,74
+Dinner,Cancelled,72
