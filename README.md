@@ -3,10 +3,13 @@ Local Food Wastage Management System
 Overview
 
 A simple web app using Streamlit and SQLite to connect food providers with receivers, reducing wastage.
+
 Features
 
 CRUD operations for providers, receivers, and food listings.
+
 SQL queries and a statistics dashboard.
+
 Basic data visualizations.
 
 Installation
