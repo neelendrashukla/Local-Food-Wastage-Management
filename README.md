@@ -43,3 +43,6 @@ sql_queries/, visualization_charts/: Query and chart data.
 
 cleaned_*.csv: Cleaned data files.
 
+# Local Food Wastage Management System
+
+This is a web-based application to manage food wastage. Check the live demo here: [Live App](https://neelendrashukla-local-food-localfoodwastagemanagementapp-3ayxlh.streamlit.app/)
