@@ -45,3 +45,24 @@ cleaned_*.csv: Cleaned data files.
 
 
 This is a web-based application to manage food wastage. Check the live demo here: [Live App](https://neelendrashukla-local-food-localfoodwastagemanagementapp-3ayxlh.streamlit.app/)
+
+## Future Work  
+
+  **User Authentication**  
+  Implement a secure login system to ensure that only authorized users can access the platform, thereby enhancing overall security.  
+
+  **Notifications**  
+  Introduce email and in-app notifications to keep users informed about new claims, expiring food listings, and other important updates.  
+
+  **Mobile Optimization**  
+  Improve the app’s design and responsiveness to provide a seamless user experience on mobile devices.  
+
+  **Advanced Analytics**  
+  Integrate interactive dashboards and charts (e.g., using Plotly) to deliver deeper insights and support data-driven decision-making.  
+
+  **Real-Time Updates**  
+  Enable live tracking of food listings and claims to allow efficient and real-time management.  
+
+  **Data Enhancement**  
+  Enrich and refine the dataset to make the system more realistic, reliable, and valuable for practical applications.  
+
